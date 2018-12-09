@@ -1,0 +1,19 @@
+Bonjour à tous,
+
+En guise de projet "pré-formation", je vous propose d'intégrer la maquette photoshop suivante en un vrai site HTML/CSS. (Pas de JavaScript)
+Les images sont déjà prêtes à l'emploi dans le dossier "images".
+Les polices d'écriture ("Fonts") sont également prêtes à l'emploi dans le dossier "fonts".
+Pour ceux qui ne possèdent pas photoshop ou ne savent pas s'en servir, je vous joins également un jpg de la maquette.
+
+L'objectif sera pour vous de transformer cette maquette, cette image, en un vrai site html/css. Le choix des outils est libre mais l'utilisation d'un CMS (Wordpress etc...) est proscrite.
+Le but est de réaliser un site html/css simple tout en respectant le visuel de la maquette.
+
+Je suis disponible par mail à y.thorez@onlineformapro.com si vous avez la moindre question ou le moindre soucis.
+N'hésitez pas à m'envoyer un mail si vous avez besoin de quelque chose.
+
+Nous regarderons vos projets le lundi 10 décembre ensemble. Même si vous n'avez pas encore vos ordinateurs, amenez vos projets sous clés usb ou mettez les en ligne pour ceux qui peuvent.
+
+
+
+
+
